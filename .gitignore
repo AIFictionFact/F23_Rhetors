@@ -1,0 +1,4 @@
+*.png
+tree*
+__pycache__
+credentials.py
