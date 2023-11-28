@@ -1,4 +1,6 @@
 *.png
 tree*
+*.model
 __pycache__
 credentials.py
+.DS_Store
