@@ -4,3 +4,5 @@ tree*
 __pycache__
 credentials.py
 .DS_Store
+download.sh
+llama/
