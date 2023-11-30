@@ -1,5 +1,6 @@
 *.png
 tree*
+script*
 *.model
 __pycache__
 credentials.py
