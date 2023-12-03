@@ -7,3 +7,4 @@ credentials.py
 .DS_Store
 download.sh
 llama/
+*.gguf
