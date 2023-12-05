@@ -26,7 +26,7 @@ thread = TLC + response tree</sub>
 6. **TTS**. Tokenize into coherent blocks of sentences for Bark, concatenate results into one continuous dialogue
 
 
-### Documetation
+### Documentation
 
 **Build script**:  run all the blocks in "rhetor.ipynb" in a sequential manner, installing packages as needed, and in the end, there would be a "script.json" file generated. That is the final script of the debates.
 
