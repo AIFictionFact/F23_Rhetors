@@ -24,3 +24,10 @@ thread = TLC + response tree</sub>
    - Use LLM to shorten any monologues, add natural transitions at the end of branches (Speaker C helps), and inject non-speech queues like [laughter] and [sighs]
    - If a reply has any children that contain blockquotes citing a part of it, introduce an interjection by that speaker
 6. **TTS**. Tokenize into coherent blocks of sentences for Bark, concatenate results into one continuous dialogue
+
+
+### Documetation
+
+**Build script**:  run all the blocks in "rhetor.ipynb" in a sequential manner, installing packages as needed, and in the end, there would be a "script.json" file generated. That is the final script of the debates.
+
+**TTS Bark**:  with the threads in "script.json", one can run the blocks in "TTS_bark.ipynb" replacing speakers names and content as need, and generate your own artificial audio debate.
